@@ -1,4 +1,8 @@
 ### Hi there 👋
+I'm Jeremy Duncan,
+
+  I'm a veteran that has over a decade of experience as an Electronic Technician and Network Administrator. I've been in the process of transitioning from my military career to a new career as a software engineer. During this transition I have been going to Devry University full-time working towards a Bachelor's of Science in Computer Information Systems with a focus in Software Programming.  
+
 [![Jeremy's GitHub stats](https://github-readme-stats.vercel.app/api?username=JeremyDuncan)](https://github.com/JeremyDuncan/github-readme-stats)
 
 
