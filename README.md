@@ -7,7 +7,7 @@
  ### <p>While going to DeVry I have also been aggressively self-learning other software languages and technologies such as: </p>
  # 
  <div style="text-align: center;">
-⭐️ JavaScript ⭐️ Node.js ⭐️ React ⭐️ Jest ⭐️ HTML ⭐️ CSS ⭐️ C# ⭐️ Java ⭐️ Swift ⭐️ Python
+⭐️JavaScript &nbsp; ⭐️Node.js &nbsp; ⭐️React &nbsp; ⭐️Jest &nbsp; ⭐️HTML &nbsp; ⭐️CSS &nbsp; ⭐️C# &nbsp; ⭐️Java &nbsp; ⭐️Swift &nbsp; ⭐️Python
 </div>
  
 
@@ -19,35 +19,30 @@
 #
 <h2 style="text-align: center;">Portfolios</h2>
 
-<div style="text-align: center;">
-<strong><a href="https://codepen.io/jduncan05/full/JjOVvMg">💾 CodePen</a></strong> 
-&nbsp;&nbsp;
-<strong><a href="https://www.freecodecamp.org/JeremyDuncan">💾 FreeCodeCamp</a></strong>
-&nbsp;&nbsp;
-<strong><a href="https://jeremyduncan1984.wixsite.com/jeremy-duncan"> 🎓DeVry University</a></strong>
-&nbsp;&nbsp;
-<strong><a href="https://www.linkedin.com/in/jeremy-duncan2021">🔗 LinkedIn</a></strong>
-</div>
+
+- <strong><a href="https://codepen.io/jduncan05/full/JjOVvMg">💾 CodePen</a></strong> 
+&nbsp;&nbsp;&nbsp;&nbsp;
+- <strong><a href="https://www.freecodecamp.org/JeremyDuncan">💾 FreeCodeCamp</a></strong>
+&nbsp;&nbsp;&nbsp;&nbsp;
+- <strong><a href="https://jeremyduncan1984.wixsite.com/jeremy-duncan">🎓 DeVry University</a></strong>
+&nbsp;&nbsp;&nbsp;&nbsp;
+- <strong><a href="https://www.linkedin.com/in/jeremy-duncan2021">🔗 LinkedIn</a></strong>
 
 #
-<div style="text-align: center;">
 <h2 style="text-align: center;">Certifications</h2>
-<strong><a href="https://www.freecodecamp.org/certification/jeremyduncan/responsive-web-design">📌 Responsive Web Design</a></strong>
+
+ - <strong><a href="https://www.freecodecamp.org/certification/jeremyduncan/responsive-web-design">📌Responsive Web Design</a></strong>
 &nbsp;&nbsp;
-<strong><a href="https://www.freecodecamp.org/certification/jeremyduncan/javascript-algorithms-and-data-structures">📌 JavaScript Algorithms & Data Structures</a></strong>
-</div>
-
-
+- <strong><a href="https://www.freecodecamp.org/certification/jeremyduncan/javascript-algorithms-and-data-structures">📌JavaScript Algorithms & Data Structures</a></strong>
 
 #
   <h2 style="text-align: center;">Contact info</h2>
 
 
-<div style="text-align: center;">
-<strong><a href="tel:757-637-0202"> 📞 770-309-2046</a></strong> 
+- <strong> <a href="mailto:jeremy.duncan1984@gmail.com">✉️ E-Mail</a> </strong>
+- <strong><a href="tel:757-637-0202"> 📞 770-309-2046</a></strong> 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<strong> <a href="mailto:jeremy.duncan1984@gmail.com">✉️ E-Mail</a> </strong>
-</div>
+
 
 #
 <!--
