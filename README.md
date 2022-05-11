@@ -1,6 +1,5 @@
-## Hi there 👋
-
-## I'm Jeremy Duncan,
+<h2>Hi there 👋 </h2>
+<h1>I'm Jeremy Duncan,</h1>
 
  ### <p>I'm a highly motivated veteran that has over a decade of experience as an Electronic Technician and Network Administrator. I love solving problems and I work well with teams to accomplish projects.</p> 
  ### <p>I've been in the process of transitioning from my military career to a new career as a Software Develpper. During this transition I have been going to DeVry University full-time working towards a Bachelor's of Science in Computer Information Systems with a focus in Software Programming. I am interested in gaining real-world experience throught internships and mentorship.</p>
