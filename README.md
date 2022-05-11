@@ -8,7 +8,12 @@ I'm Jeremy Duncan,
 ⭐️ JavaScript ⭐️ Node.js ⭐️ React ⭐️ HTML ⭐️ CSS ⭐️ C# ⭐️ Java ⭐️ Swift ⭐️ Python
   </ul>
   <p>I am interested in gaining real-world experience throught internships and mentorship.</p>
-  <h3></h3>
+  <h3>Contact info: </h3>
+  <p>✉️ <strong>Email: </strong> jeremy.duncan1984@gmail.com</p>
+  <p>📞 <strong>Phone: </strong> 770-309-2046</p>
+  <p>🔗 <strong>LinkedIn: </strong> https://www.linkedin.com/in/jeremy-duncan2021</p>
+  <p>🔗 <strong>FreeCodeCamp: </strong> https://www.freecodecamp.org/JeremyDuncan</p>
+  <p>🔗 <strong>DeVry Portfolio:</strong> https://jeremyduncan1984.wixsite.com/jeremy-duncan</p>
 
 
 [![Jeremy's GitHub stats](https://github-readme-stats.vercel.app/api?username=JeremyDuncan)](https://github.com/JeremyDuncan/github-readme-stats)
