@@ -9,7 +9,7 @@
 
 #
 <img align="center" width="54%" src="https://github-readme-stats.vercel.app/api?username=JeremyDuncan&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-<img align="center" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeremyDuncan&layout=compact&theme=buefy&hide_border=true&&count_private=true&include_all_commits=true" /></a>
+<img align="center" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeremyDuncan&layout=compact&theme=buefy&hide_border=true&&count_private=true&include_all_commits=true" />
 
 #
 <h2 style="text-align: center;">Portfolios</h2>
