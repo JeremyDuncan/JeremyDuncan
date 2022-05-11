@@ -44,7 +44,7 @@
 
 
 <div style="text-align: center;">
-<strong><a href="tel:757-637-0202" class="btn contact-details"> 📞 Phone</a></strong> 
+<strong><a href="tel:757-637-0202"> 📞 Phone</a></strong> 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <strong> <a href="mailto:jeremy.duncan1984@gmail.com" class="btn contact-details">✉️ E-Mail</a> </strong>
 </div>
