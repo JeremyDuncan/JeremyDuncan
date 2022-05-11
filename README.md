@@ -6,7 +6,7 @@ I'm Jeremy Duncan,
   <p>While going to DeVry I have also been aggressively self-learning other software languages and technologies such as JavaScript, HTML, CSS, Python, React, C#, Java, and Swift.</p>
   <p>I am interested in gaining real-world experience throught internships and mentorship.</p>
  <ul>
-  <li>JavaScript</li>
+  ⭐️ JavaScript
   <li>React</li>
   <li>HTML</li>
 </ul>
