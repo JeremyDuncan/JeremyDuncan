@@ -19,7 +19,6 @@
 #
 <h2 style="text-align: center;">Portfolios</h2>
 
-#
 <div style="text-align: center;">
 <strong><a href="https://codepen.io/jduncan05/full/JjOVvMg">💾 CodePen</a></strong> 
 &nbsp;&nbsp;
@@ -31,15 +30,26 @@
 </div>
 
 #
-  <h2 style="text-align: center;">Contact info: </h2>
+<div style="text-align: center;">
+<h2 style="text-align: center;">Certifications</h2>
+<strong><a href="https://www.freecodecamp.org/certification/jeremyduncan/responsive-web-design">📌 Responsive Web Design</a></strong>
+&nbsp;&nbsp;
+<strong><a href="https://www.freecodecamp.org/certification/jeremyduncan/javascript-algorithms-and-data-structures">📌 JavaScript Algorithms & Data Structures</a></strong>
+</div>
 
-#  
+
+
+#
+  <h2 style="text-align: center;">Contact info</h2>
+
+
 <div style="text-align: center;">
 <strong><a href="tel:757-637-0202" class="btn contact-details"> 📞 Phone</a></strong> 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <strong> <a href="mailto:jeremy.duncan1984@gmail.com" class="btn contact-details">✉️ E-Mail</a> </strong>
 </div>
 
+#
 <!--
 **JeremyDuncan/JeremyDuncan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
