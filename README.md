@@ -44,9 +44,9 @@
 
 
 <div style="text-align: center;">
-<strong><a href="tel:757-637-0202"> 📞 Phone</a></strong> 
+<strong><a href="tel:757-637-0202"> 📞 770-309-2046</a></strong> 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<strong> <a href="mailto:jeremy.duncan1984@gmail.com" class="btn contact-details">✉️ E-Mail</a> </strong>
+<strong> <a href="mailto:jeremy.duncan1984@gmail.com">✉️ E-Mail</a> </strong>
 </div>
 
 #
