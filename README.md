@@ -10,6 +10,8 @@ I'm Jeremy Duncan,
 
 <!--[![Jeremy's GitHub stats](https://github-readme-stats.vercel.app/api?username=JeremyDuncan)](https://github.com/JeremyDuncan/github-readme-stats)-->
 <a href="https://github.com/JeremyDuncan/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=JeremyDuncan&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Jeremy's github stats" /></a> | <a href="https://github.com/JeremyDuncan/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeremyDuncan&layout=compact&theme=buefy&hide_border=true" /></a>
+<br />
+<br />
 
   <h3>Contact info: </h3>
   <p>✉️ <strong>Email: </strong> jeremy.duncan1984@gmail.com</p>
