@@ -7,10 +7,9 @@
 #
 ⭐️JavaScript &nbsp; ⭐️Node.js &nbsp; ⭐️React &nbsp; ⭐️Jest &nbsp; ⭐️HTML &nbsp; ⭐️CSS &nbsp; ⭐️C# &nbsp; ⭐️Java &nbsp; ⭐️Swift &nbsp; ⭐️Python
 
-<!--[![Jeremy's GitHub stats](https://github-readme-stats.vercel.app/api?username=JeremyDuncan)](https://github.com/JeremyDuncan/github-readme-stats)-->
 #
-<a href="#"><img align="center" width="54%" src="https://github-readme-stats.vercel.app/api?username=JeremyDuncan&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Jeremy's github stats" /></a> 
-<a href="#"><img align="center" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeremyDuncan&layout=compact&theme=buefy&hide_border=true" /></a>
+<img align="center" width="54%" src="https://github-readme-stats.vercel.app/api?username=JeremyDuncan&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+<img align="center" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeremyDuncan&layout=compact&theme=buefy&hide_border=true&&count_private=true&include_all_commits=true" /></a>
 
 #
 <h2 style="text-align: center;">Portfolios</h2>
