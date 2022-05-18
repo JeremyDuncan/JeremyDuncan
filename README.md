@@ -5,7 +5,7 @@
  ### <p>I've been in the process of transitioning from my military career to a new career as a Software Develpper. During this transition I have been going to DeVry University full-time working towards a Bachelor's of Science in Computer Information Systems with a focus in Software Programming. I am interested in gaining real-world experience throught internships and mentorship.</p>
  ### <p>While going to DeVry I have also been aggressively self-learning other software languages and technologies such as: </p>
 #
-⭐️JavaScript &nbsp; ⭐️Node.js &nbsp; ⭐️React &nbsp; ⭐️Jest &nbsp; ⭐️HTML &nbsp; ⭐️CSS &nbsp; ⭐️C# &nbsp; ⭐️Java &nbsp; ⭐️Swift &nbsp; ⭐️Python
+⭐️JavaScript &nbsp; ⭐️Node.js &nbsp; ⭐️React &nbsp; ⭐️Jest &nbsp; ⭐️HTML &nbsp; ⭐️CSS &nbsp; ⭐️C# &nbsp; ⭐️Java &nbsp; ⭐️Swift &nbsp; ⭐️Python &nbsp; ⭐️Ruby
 
 #
 <div>
