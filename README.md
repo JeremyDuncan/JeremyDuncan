@@ -1,11 +1,17 @@
 <h2>Hi there 👋 </h2>
 <h1>I'm Jeremy Duncan,</h1>
+<p align="center">
+<img width="300px" src="https://jeremyduncan.github.io/images/me_ny.jpeg"/>
+</p>
 
  ### <p>I'm a highly motivated veteran that has over a decade of experience as an Electronic Technician and Network Administrator. I love solving problems and I work well with teams to accomplish projects.</p> 
- ### <p>I've been in the process of transitioning from my military career to a new career as a Software Develpper. During this transition I have been going to DeVry University full-time working towards a Bachelor's of Science in Computer Information Systems with a focus in Software Programming. I am interested in gaining real-world experience throught internships and mentorship.</p>
+ ### <p>I've been in the process of transitioning from my military career to a new career as a Software Developer. During this transition I have been going to DeVry University full-time working towards a Bachelor's of Science in Computer Information Systems with a focus in Software Programming. I am interested in gaining real-world experience throught internships and mentorship.</p>
  ### <p>While going to DeVry I have also been aggressively self-learning other software languages and technologies such as: </p>
+ 
 #
-⭐️JavaScript &nbsp; ⭐️Node.js &nbsp; ⭐️React &nbsp; ⭐️Jest &nbsp; ⭐️HTML &nbsp; ⭐️CSS &nbsp; ⭐️C# &nbsp; ⭐️Java &nbsp; ⭐️Swift &nbsp; ⭐️Python &nbsp; ⭐️Ruby
+<p align="center">
+⭐️ &nbsp; JavaScript &nbsp; ⭐️ &nbsp; Node.js &nbsp; ⭐️ &nbsp; React &nbsp; ⭐️ &nbsp; Jest &nbsp; ⭐️ &nbsp; HTML &nbsp; ⭐️ &nbsp; CSS &nbsp; ⭐️ &nbsp; C# &nbsp; ⭐️ &nbsp; Java &nbsp; ⭐️ &nbsp; Swift &nbsp; ⭐️ &nbsp; Python &nbsp; ⭐️ &nbsp; Ruby &nbsp; ⭐️ &nbsp; Ruby on Rails &nbsp; ⭐️ &nbsp; rspec
+</p>
 
 #
 <div>
@@ -15,30 +21,35 @@
 #
 <h2 style="text-align: center;">Portfolios</h2>
 
-
-- <strong><a href="https://codepen.io/jduncan05/full/JjOVvMg">💾 CodePen</a></strong> 
+<p align="center">
+- <strong><a href="https://codepen.io/jduncan05/full/JjOVvMg">💾 &nbsp; CodePen</a></strong> 
 &nbsp;&nbsp;&nbsp;&nbsp;
-- <strong><a href="https://www.freecodecamp.org/JeremyDuncan">💾 FreeCodeCamp</a></strong>
+- <strong><a href="https://www.freecodecamp.org/JeremyDuncan">💾 &nbsp; FreeCodeCamp</a></strong>
 &nbsp;&nbsp;&nbsp;&nbsp;
-- <strong><a href="https://jeremyduncan1984.wixsite.com/jeremy-duncan">🎓 DeVry University</a></strong>
+- <strong><a href="https://jeremyduncan1984.wixsite.com/jeremy-duncan">🎓 &nbsp; DeVry University</a></strong>
 &nbsp;&nbsp;&nbsp;&nbsp;
-- <strong><a href="https://www.linkedin.com/in/jeremy-duncan2021">🔗 LinkedIn</a></strong>
+- <strong><a href="https://www.linkedin.com/in/jeremy-duncan2021">🔗 &nbsp; LinkedIn</a></strong>
+&nbsp;&nbsp;&nbsp;&nbsp;
+- <strong><a href="https://jeremyduncan.github.io/">💾 &nbsp; Custom Portfolio Site</a></strong>
+&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
 
 #
 <h2 style="text-align: center;">Certifications</h2>
-
- - <strong><a href="https://www.freecodecamp.org/certification/jeremyduncan/responsive-web-design">📌 Responsive Web Design</a></strong>
+<p align="center">
+ - <strong><a href="https://www.freecodecamp.org/certification/jeremyduncan/responsive-web-design">📌 &nbsp; Responsive Web Design</a></strong>
 &nbsp;&nbsp;
-- <strong><a href="https://www.freecodecamp.org/certification/jeremyduncan/javascript-algorithms-and-data-structures">📌 JavaScript Algorithms & Data Structures</a></strong>
+- <strong><a href="https://www.freecodecamp.org/certification/jeremyduncan/javascript-algorithms-and-data-structures">📌  &nbsp; JavaScript Algorithms & Data Structures</a></strong>
+</p>
 
 #
   <h2 style="text-align: center;">Contact info</h2>
 
-
-- <strong> <a href="mailto:jeremy.duncan1984@gmail.com">✉️ E-Mail</a> </strong>
-- <strong><a href="tel:757-637-0202"> 📞 770-309-2046</a></strong> 
+<p align="center">
+- <strong> <a href="mailto:jeremy.duncan1984@gmail.com">✉️ &nbsp; E-Mail</a> </strong>
+- <strong><a href="tel:757-637-0202"> 📞  &nbsp; 770-309-2046</a></strong> 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
+</p>
 
 #
 <!--
