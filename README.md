@@ -22,32 +22,33 @@
 <h2 style="text-align: center;">Portfolios</h2>
 
 <p align="center">
-- <strong><a href="https://codepen.io/jduncan05/full/JjOVvMg">💾 &nbsp; CodePen</a></strong> 
+<strong><a href="https://codepen.io/jduncan05/full/JjOVvMg">💾 &nbsp; CodePen</a></strong> 
 &nbsp;&nbsp;&nbsp;&nbsp;
-- <strong><a href="https://www.freecodecamp.org/JeremyDuncan">💾 &nbsp; FreeCodeCamp</a></strong>
+<strong><a href="https://www.freecodecamp.org/JeremyDuncan">💾 &nbsp; FreeCodeCamp</a></strong>
 &nbsp;&nbsp;&nbsp;&nbsp;
-- <strong><a href="https://jeremyduncan1984.wixsite.com/jeremy-duncan">🎓 &nbsp; DeVry University</a></strong>
+<strong><a href="https://jeremyduncan1984.wixsite.com/jeremy-duncan">🎓 &nbsp; DeVry University</a></strong>
 &nbsp;&nbsp;&nbsp;&nbsp;
-- <strong><a href="https://www.linkedin.com/in/jeremy-duncan2021">🔗 &nbsp; LinkedIn</a></strong>
+<strong><a href="https://www.linkedin.com/in/jeremy-duncan2021">🔗 &nbsp; LinkedIn</a></strong>
 &nbsp;&nbsp;&nbsp;&nbsp;
-- <strong><a href="https://jeremyduncan.github.io/">💾 &nbsp; Custom Portfolio Site</a></strong>
+<strong><a href="https://jeremyduncan.github.io/">💾 &nbsp; Custom Portfolio Site</a></strong>
 &nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 #
 <h2 style="text-align: center;">Certifications</h2>
 <p align="center">
- - <strong><a href="https://www.freecodecamp.org/certification/jeremyduncan/responsive-web-design">📌 &nbsp; Responsive Web Design</a></strong>
+<strong><a href="https://www.freecodecamp.org/certification/jeremyduncan/responsive-web-design">📌 &nbsp; Responsive Web Design</a></strong>
 &nbsp;&nbsp;
-- <strong><a href="https://www.freecodecamp.org/certification/jeremyduncan/javascript-algorithms-and-data-structures">📌  &nbsp; JavaScript Algorithms & Data Structures</a></strong>
+<strong><a href="https://www.freecodecamp.org/certification/jeremyduncan/javascript-algorithms-and-data-structures">📌  &nbsp; JavaScript Algorithms & Data Structures</a></strong>
 </p>
 
 #
   <h2 style="text-align: center;">Contact info</h2>
 
 <p align="center">
-- <strong> <a href="mailto:jeremy.duncan1984@gmail.com">✉️ &nbsp; E-Mail</a> </strong>
-- <strong><a href="tel:757-637-0202"> 📞  &nbsp; 770-309-2046</a></strong> 
+<strong> <a href="mailto:jeremy.duncan1984@gmail.com">✉️ &nbsp; E-Mail</a> </strong>
+&nbsp;&nbsp;
+<strong><a href="tel:757-637-0202"> 📞  &nbsp; 770-309-2046</a></strong> 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
