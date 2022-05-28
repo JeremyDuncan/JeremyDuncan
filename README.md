@@ -1,7 +1,7 @@
 <h2>Hi there 👋 </h2>
 <h1>I'm Jeremy Duncan,</h1>
 <p align="center">
-<img width="300px" src="https://jeremyduncan.github.io/images/me_ny.jpeg"/>
+<img width="300px" src="https://jeremyduncan.github.io/images/me_ny.webp"/>
 </p>
 
  ### <p>I'm a highly motivated veteran that has over a decade of experience as an Electronic Technician and Network Administrator. I love solving problems and I work well with teams to accomplish projects.</p> 
