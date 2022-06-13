@@ -33,6 +33,7 @@
 <strong><a href="https://jeremyduncan.github.io/">💼 &nbsp; Custom Portfolio Site</a></strong>
 &nbsp;&nbsp;&nbsp;&nbsp;
 </p>
+
 #
 <h2 style="text-align: center;">Certifications</h2>
 <p align="center">
