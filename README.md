@@ -22,18 +22,17 @@
 <h2 style="text-align: center;">Portfolios</h2>
 
 <p align="center">
-<strong><a href="https://codepen.io/jduncan05/full/JjOVvMg">💾 &nbsp; CodePen</a></strong> 
+<strong><a href="https://jeremy-duncan.notion.site/Jeremy-Duncan-s-Military-Experience-7abdbb418a6b40e7b2abd161eed48cda">🎖 &nbsp; Military Experience</a></strong> 
 &nbsp;&nbsp;&nbsp;&nbsp;
-<strong><a href="https://www.freecodecamp.org/JeremyDuncan">💾 &nbsp; FreeCodeCamp</a></strong>
-&nbsp;&nbsp;&nbsp;&nbsp;
-<strong><a href="https://jeremyduncan1984.wixsite.com/jeremy-duncan">🎓 &nbsp; DeVry University</a></strong>
+<strong><a href="https://jeremy-duncan.notion.site/DeVry-University-e24f1fc1ff8c4810b909c0769babfc1f">🎓 &nbsp; DeVry University</a></strong>
 &nbsp;&nbsp;&nbsp;&nbsp;
 <strong><a href="https://www.linkedin.com/in/jeremy-duncan2021">🔗 &nbsp; LinkedIn</a></strong>
 &nbsp;&nbsp;&nbsp;&nbsp;
-<strong><a href="https://jeremyduncan.github.io/">💾 &nbsp; Custom Portfolio Site</a></strong>
+<strong><a href="https://www.freecodecamp.org/JeremyDuncan">💾 &nbsp; FreeCodeCamp</a></strong>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<strong><a href="https://jeremyduncan.github.io/">💼 &nbsp; Custom Portfolio Site</a></strong>
 &nbsp;&nbsp;&nbsp;&nbsp;
 </p>
-
 #
 <h2 style="text-align: center;">Certifications</h2>
 <p align="center">
