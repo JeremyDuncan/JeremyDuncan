@@ -40,7 +40,10 @@
 <strong><a href="https://www.freecodecamp.org/certification/jeremyduncan/responsive-web-design">📌 &nbsp; Responsive Web Design</a></strong>
 &nbsp;&nbsp;
 <strong><a href="https://www.freecodecamp.org/certification/jeremyduncan/javascript-algorithms-and-data-structures">📌  &nbsp; JavaScript Algorithms & Data Structures</a></strong>
+&nbsp;&nbsp;
+<strong><a href="https://www.freecodecamp.org/certification/JeremyDuncan/front-end-development-libraries">📌  &nbsp; Front End Development Libraries</a></strong>
 </p>
+
 
 #
   <h2 style="text-align: center;">Contact info</h2>
