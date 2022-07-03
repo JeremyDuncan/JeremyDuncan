@@ -24,7 +24,7 @@
 <p align="center">
 <strong><a href="https://jeremy-duncan.notion.site/Jeremy-Duncan-s-Military-Experience-7abdbb418a6b40e7b2abd161eed48cda">🎖 &nbsp; Military Experience</a></strong> 
 &nbsp;&nbsp;&nbsp;&nbsp;
-<strong><a href="https://jeremy-duncan.notion.site/DeVry-University-e24f1fc1ff8c4810b909c0769babfc1f">🎓 &nbsp; DeVry University</a></strong>
+<strong><a href="https://jeremyduncan.github.io/devry-projects/devry.html">🎓 &nbsp; DeVry University</a></strong>
 &nbsp;&nbsp;&nbsp;&nbsp;
 <strong><a href="https://www.linkedin.com/in/jeremy-duncan2021">🔗 &nbsp; LinkedIn</a></strong>
 &nbsp;&nbsp;&nbsp;&nbsp;
