@@ -22,9 +22,9 @@
 <h2 style="text-align: center;">Portfolios</h2>
 
 <p align="center">
-<strong><a href="https://jeremy-duncan.notion.site/Jeremy-Duncan-s-Military-Experience-7abdbb418a6b40e7b2abd161eed48cda">🎖 &nbsp; Military Experience</a></strong> 
+<strong><a href="https://jeremy-duncan.com/Military-Training">🎖 &nbsp; Military Experience</a></strong> 
 &nbsp;&nbsp;&nbsp;&nbsp;
-<strong><a href="https://www.jeremy-duncan.com/devry-projects/devry.html">🎓 &nbsp; DeVry University</a></strong>
+<strong><a href="https://jeremy-duncan.com/DeVry-University-Projects">🎓 &nbsp; DeVry University</a></strong>
 &nbsp;&nbsp;&nbsp;&nbsp;
 <strong><a href="https://www.linkedin.com/in/jeremy-duncan2021">🔗 &nbsp; LinkedIn</a></strong>
 &nbsp;&nbsp;&nbsp;&nbsp;
@@ -56,17 +56,3 @@
 </p>
 
 #
-<!--
-**JeremyDuncan/JeremyDuncan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
