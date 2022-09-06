@@ -49,7 +49,7 @@
   <h2 style="text-align: center;">Contact info</h2>
 
 <p align="center">
-<strong> <a href="mailto:jeremy.duncan1984@gmail.com">✉️ &nbsp; E-Mail</a> </strong>
+<strong> <a href="mailto:jeremy.duncan1984@gmail.com">✉️&nbsp; jeremy.duncan1984@gmail.com</a> </strong>
 &nbsp;&nbsp;
 <strong><a href="tel:757-637-0202"> 📞  &nbsp; 770-309-2046</a></strong> 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
