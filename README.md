@@ -37,12 +37,29 @@
 #
 <h2 style="text-align: center;">Certifications</h2>
 <p align="center">
-<strong><a href="https://www.freecodecamp.org/certification/jeremyduncan/responsive-web-design">📌 &nbsp; Responsive Web Design</a></strong>
+<strong><a href="https://www.freecodecamp.org/certification/jeremyduncan/responsive-web-design">📌&nbsp; Responsive Web Design</a></strong>
 &nbsp;&nbsp;
-<strong><a href="https://www.freecodecamp.org/certification/jeremyduncan/javascript-algorithms-and-data-structures">📌  &nbsp; JavaScript Algorithms & Data Structures</a></strong>
+<p align="center">
+<strong><a href="https://www.freecodecamp.org/certification/jeremyduncan/javascript-algorithms-and-data-structures">📌&nbsp; JavaScript Algorithms & Data Structures</a></strong>
 &nbsp;&nbsp;
-<strong><a href="https://www.freecodecamp.org/certification/JeremyDuncan/front-end-development-libraries">📌  &nbsp; Front End Development Libraries</a></strong>
-</p>
+<p align="center">
+<strong><a href="https://www.freecodecamp.org/certification/JeremyDuncan/front-end-development-libraries">📌&nbsp; Front End Development Libraries</a></strong>
+&nbsp;&nbsp;
+<p align="center">
+<strong><a href="https://www.coursera.org/account/accomplishments/verify/PKK2Y2LQ9NRD">📌&nbsp; {Google} Foundations of UX Design</a></strong>
+&nbsp;&nbsp;
+<p align="center">
+<strong><a href="https://www.coursera.org/account/accomplishments/verify/T5BDCFFMHLWD">📌&nbsp; {Google} Start the UX Design Process: Empathize, Define, and Ideate</a></strong>
+&nbsp;&nbsp;
+<p align="center">
+<strong><a href="https://www.coursera.org/account/accomplishments/verify/XQ72XXD23NKU">📌&nbsp; {Google} Build Wireframes and Low-Fidelity Prototypes</a></strong>
+&nbsp;&nbsp;
+<p align="center">
+<strong><a href="https://www.coursera.org/account/accomplishments/verify/RK9Q2R26Z6UK">📌&nbsp; {Google} Conduct UX Research and Test Early Concepts</a></strong>
+&nbsp;&nbsp;
+
+
+
 
 
 #
