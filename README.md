@@ -22,7 +22,7 @@
 <h2 style="text-align: center;">Portfolios</h2>
 
 <p align="center">
-<strong><a href="https://www.jeremy-duncan.com/">💼 &nbsp; www.Jeremy-Duncan.com</a></strong>
+<strong><a href="https://www.jeremy-duncan.com/">🌐 &nbsp; www.Jeremy-Duncan.com</a></strong>
 &nbsp;&nbsp;&nbsp;&nbsp;
 <strong><a href="https://jeremy-duncan.com/Military-Training">🎖 &nbsp; Military Training</a></strong> 
 &nbsp;&nbsp;&nbsp;&nbsp;
