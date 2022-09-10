@@ -22,16 +22,15 @@
 <h2 style="text-align: center;">Portfolios</h2>
 
 <p align="center">
-<strong><a href="https://jeremy-duncan.com/Military-Training">🎖 &nbsp; Military Experience</a></strong> 
+<strong><a href="https://www.jeremy-duncan.com/">💼 &nbsp; www.Jeremy-Duncan.com</a></strong>
 &nbsp;&nbsp;&nbsp;&nbsp;
-<strong><a href="https://jeremy-duncan.com/DeVry-University-Projects">🎓 &nbsp; DeVry University</a></strong>
+<strong><a href="https://jeremy-duncan.com/Military-Training">🎖 &nbsp; Military Training</a></strong> 
 &nbsp;&nbsp;&nbsp;&nbsp;
-<strong><a href="https://www.linkedin.com/in/jeremy-duncan2021">🔗 &nbsp; LinkedIn</a></strong>
-&nbsp;&nbsp;&nbsp;&nbsp;
+<strong><a href="https://jeremy-duncan.com/DeVry-University-Projects">🎓 &nbsp; College Projects</a></strong>
+&nbsp;&nbsp;
 <strong><a href="https://www.freecodecamp.org/JeremyDuncan">💾 &nbsp; FreeCodeCamp</a></strong>
 &nbsp;&nbsp;&nbsp;&nbsp;
-<strong><a href="https://www.jeremy-duncan.com/">💼 &nbsp; Custom Portfolio Site</a></strong>
-&nbsp;&nbsp;&nbsp;&nbsp;
+
 </p>
 
 #
@@ -69,6 +68,8 @@
 <strong> <a href="mailto:jeremy.duncan1984@gmail.com">✉️&nbsp; jeremy.duncan1984@gmail.com</a> </strong>
 &nbsp;&nbsp;
 <strong><a href="tel:757-637-0202"> 📞  &nbsp; 770-309-2046</a></strong> 
+&nbsp;&nbsp;
+<strong><a href="https://www.linkedin.com/in/jeremy-duncan2021">🔗 &nbsp; LinkedIn</a></strong>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
