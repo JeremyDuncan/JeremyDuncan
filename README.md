@@ -6,13 +6,26 @@
 
  ### <p>I'm a highly motivated veteran that has over a decade of experience as an Electronic Technician and Network Administrator. I love solving problems and I work well with teams to accomplish projects.</p> 
  ### <p>I've been in the process of transitioning from my military career to a new career as a Software Developer. During this transition I have been going to DeVry University full-time working towards a Bachelor's of Science in Computer Information Systems with a focus in Software Programming. I am interested in gaining real-world experience through internships and mentorship.</p>
- ### <p>While going to DeVry I have also been aggressively self-learning other software languages and technologies such as: </p>
- 
+ ### <p>While going to DeVry I have also been aggressively self-learning other software languages and technologies and completing an Intense Full-Stack Developer program taught by LEARN Academy</p>
 #
-<p align="center">
-⭐️ &nbsp; JavaScript &nbsp; ⭐️ &nbsp; Node.js &nbsp; ⭐️ &nbsp; React &nbsp; ⭐️ &nbsp; Jest &nbsp; ⭐️ &nbsp; HTML &nbsp; ⭐️ &nbsp; CSS &nbsp; ⭐️ &nbsp; C# &nbsp; ⭐️ &nbsp; Java &nbsp; ⭐️ &nbsp; Swift &nbsp; ⭐️ &nbsp; Python &nbsp; ⭐️ &nbsp; Ruby &nbsp; ⭐️ &nbsp; Ruby on Rails &nbsp; ⭐️ &nbsp; rspec
-</p>
-
+<!-- <p align="center">
+⭐️ &nbsp; JavaScript &nbsp; ⭐️ &nbsp; Node.js &nbsp; ⭐️ &nbsp; React &nbsp; ⭐️ &nbsp; Jest &nbsp; ⭐️ &nbsp; HTML &nbsp; ⭐️ &nbsp; CSS &nbsp; ⭐️ &nbsp; C# &nbsp; ⭐️ &nbsp; Java &nbsp; ⭐️ &nbsp; Swift &nbsp; ⭐️ &nbsp; Python &nbsp; ⭐️ &nbsp; Ruby &nbsp; ⭐️ &nbsp; Ruby on Rails &nbsp; ⭐️ &nbsp; RSpec
+</p> -->
+```mermaid
+graph TB
+  FE((Front End <br> Technologies)) --> JavaScript 
+  FE((Front End <br> Technologies)) --> React 
+  FE((Front End <br> Technologies)) --> CSS
+  FE((Front End <br> Technologies)) --> Material-UI 
+  FE((Front End <br> Technologies)) --> HTML
+  BE((Back End <br> Technologies)) --> Ruby 
+  BE((Back End <br> Technologies)) --> ror[Ruby on Rails] 
+  BE((Back End <br> Technologies)) --> slq[PostgreSQL]
+  b((Testing <br> Frameworks)) --> RSpec
+  b((Testing <br> Frameworks)) --> Pry
+  b((Testing <br> Frameworks)) --> Jest
+  ```
+  
 #
 <div>
 <img align="center" width="53%" src="https://github-readme-stats.vercel.app/api?username=JeremyDuncan&show_icons=true&hide_border=true&&count_private=true&include_all_commits=false" />
@@ -42,7 +55,7 @@
 <strong><a href="https://www.freecodecamp.org/certification/jeremyduncan/javascript-algorithms-and-data-structures">📌&nbsp; JavaScript Algorithms & Data Structures</a></strong>
 &nbsp;&nbsp;
 <p align="center">
-<strong><a href="https://www.freecodecamp.org/certification/JeremyDuncan/front-end-development-libraries">📌&nbsp; Front End Development Libraries</a></strong>
+<strong><a href="https://www.freecodecamp.org/certification/JeremyDuncan/front-end-development-libraries">📌&nbsp; Front End <br> Technologies Development Libraries</a></strong>
 &nbsp;&nbsp;
 <p align="center">
 <strong><a href="https://www.coursera.org/account/accomplishments/verify/PKK2Y2LQ9NRD">📌&nbsp; {Google} Foundations of UX Design</a></strong>
@@ -72,6 +85,8 @@
 <strong><a href="https://www.linkedin.com/in/jeremy-duncan2021">🔗 &nbsp; LinkedIn</a></strong>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
+
+
 
 
 #
