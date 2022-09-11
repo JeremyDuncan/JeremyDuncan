@@ -73,8 +73,5 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
-```mermaid
-graph TD
-  Test ---> TestSat
- ```
+
 #
