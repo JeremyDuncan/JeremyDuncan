@@ -11,6 +11,11 @@
 <!-- <p align="center">
 ⭐️ &nbsp; JavaScript &nbsp; ⭐️ &nbsp; Node.js &nbsp; ⭐️ &nbsp; React &nbsp; ⭐️ &nbsp; Jest &nbsp; ⭐️ &nbsp; HTML &nbsp; ⭐️ &nbsp; CSS &nbsp; ⭐️ &nbsp; C# &nbsp; ⭐️ &nbsp; Java &nbsp; ⭐️ &nbsp; Swift &nbsp; ⭐️ &nbsp; Python &nbsp; ⭐️ &nbsp; Ruby &nbsp; ⭐️ &nbsp; Ruby on Rails &nbsp; ⭐️ &nbsp; RSpec
 </p> -->
+
+
+##  <p align="center"> <strong>Full-Stack Developer Skills<strong>
+</p>
+
 ```mermaid
 graph TB
   FE((Front End <br> Technologies)) --> JavaScript 
@@ -25,7 +30,7 @@ graph TB
   b((Testing <br> Frameworks)) --> Pry
   b((Testing <br> Frameworks)) --> Jest
   ```
-  
+
 #
 <div>
 <img align="center" width="53%" src="https://github-readme-stats.vercel.app/api?username=JeremyDuncan&show_icons=true&hide_border=true&&count_private=true&include_all_commits=false" />
