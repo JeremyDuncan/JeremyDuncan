@@ -12,7 +12,11 @@
 ⭐️ &nbsp; JavaScript &nbsp; ⭐️ &nbsp; Node.js &nbsp; ⭐️ &nbsp; React &nbsp; ⭐️ &nbsp; Jest &nbsp; ⭐️ &nbsp; HTML &nbsp; ⭐️ &nbsp; CSS &nbsp; ⭐️ &nbsp; C# &nbsp; ⭐️ &nbsp; Java &nbsp; ⭐️ &nbsp; Swift &nbsp; ⭐️ &nbsp; Python &nbsp; ⭐️ &nbsp; Ruby &nbsp; ⭐️ &nbsp; Ruby on Rails &nbsp; ⭐️ &nbsp; RSpec
 </p> -->
 
+<div>
+<img align="center" width="53%" src="https://github-readme-stats.vercel.app/api?username=JeremyDuncan&show_icons=true&hide_border=true&&count_private=true&include_all_commits=false" />
+<img align="center" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeremyDuncan&layout=compact&theme=buefy&hide_border=true&&count_private=true&include_all_commits=true"/></div>
 
+#
 ##  <p align="center"> <strong>Full-Stack Developer Skills<strong>
 </p>
 
@@ -30,12 +34,6 @@ graph TB
   b((Testing <br> Frameworks)) --> Pry
   b((Testing <br> Frameworks)) --> Jest
   ```
-
-#
-<div>
-<img align="center" width="53%" src="https://github-readme-stats.vercel.app/api?username=JeremyDuncan&show_icons=true&hide_border=true&&count_private=true&include_all_commits=false" />
-<img align="center" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeremyDuncan&layout=compact&theme=buefy&hide_border=true&&count_private=true&include_all_commits=true"/></div>
-
 #
 <h2 style="text-align: center;">Portfolios</h2>
 
@@ -60,7 +58,7 @@ graph TB
 <strong><a href="https://www.freecodecamp.org/certification/jeremyduncan/javascript-algorithms-and-data-structures">📌&nbsp; JavaScript Algorithms & Data Structures</a></strong>
 &nbsp;&nbsp;
 <p align="center">
-<strong><a href="https://www.freecodecamp.org/certification/JeremyDuncan/front-end-development-libraries">📌&nbsp; Front End <br> Technologies Development Libraries</a></strong>
+<strong><a href="https://www.freecodecamp.org/certification/JeremyDuncan/front-end-development-libraries">📌&nbsp; Front End Development Libraries</a></strong>
 &nbsp;&nbsp;
 <p align="center">
 <strong><a href="https://www.coursera.org/account/accomplishments/verify/PKK2Y2LQ9NRD">📌&nbsp; {Google} Foundations of UX Design</a></strong>
