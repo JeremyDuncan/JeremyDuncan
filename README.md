@@ -16,8 +16,8 @@
 <!-- <img align="center" width="53%" src="https://github-readme-stats.vercel.app/api?username=JeremyDuncan&show_icons=true&hide_border=true&&count_private=true&include_all_commits=false" />
 <img align="center" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeremyDuncan&layout=compact&theme=buefy&hide_border=true&&count_private=true&include_all_commits=true"/></div>
  -->
-## <p align="center"> <strong>Full-Stack Developer Skills<strong>
-</p>
+<h2 align="center"> <strong>Full-Stack Developer Skills<strong>
+</h2>
 
 ```mermaid
 graph TB
