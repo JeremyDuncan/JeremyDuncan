@@ -4,10 +4,16 @@
 <img width="300px" src="https://jeremyduncan.github.io/images/me_ny.webp"/>
 </p>
 
- ### <p>I'm a highly motivated veteran that has over a decade of experience as an Electronic Technician and Network Administrator. I love solving problems and I work well with teams to accomplish projects.</p> 
- ### <p>I've currently transitioned my career to being a Software Engineer. During this transition I have been going to DeVry University full-time working towards a Bachelor's of Science in Computer Information Systems with a focus in Software Programming.</p>
- ### <p>While going to DeVry I have also been aggressively self-learning other software languages and technologies while also completing an intense Full-Stack Developer program taught by LEARN Academy.</p>
+ ### <p>Software Engineer and 13-year United States Navy Veteran with Professional experience in software development, electronics, and information systems. Experienced in full-stack development with a strong background in Ruby on Rails, JavaScript, and cloud technologies.</p> 
+ ### <p>Holder of a B.S. in Computer Information Systems and Software Programming (Summa Cum Laude), an A.S. in Information Technology and Networking, and an undergraduate certificate in Programming Essentials.</p>
 #
+
+
+
+
+
+
+
 <!-- <p align="center">
 ⭐️ &nbsp; JavaScript &nbsp; ⭐️ &nbsp; Node.js &nbsp; ⭐️ &nbsp; React &nbsp; ⭐️ &nbsp; Jest &nbsp; ⭐️ &nbsp; HTML &nbsp; ⭐️ &nbsp; CSS &nbsp; ⭐️ &nbsp; C# &nbsp; ⭐️ &nbsp; Java &nbsp; ⭐️ &nbsp; Swift &nbsp; ⭐️ &nbsp; Python &nbsp; ⭐️ &nbsp; Ruby &nbsp; ⭐️ &nbsp; Ruby on Rails &nbsp; ⭐️ &nbsp; RSpec
 </p> -->
