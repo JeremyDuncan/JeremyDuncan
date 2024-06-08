@@ -1,8 +1,8 @@
 <h2>Hi there 👋 </h2>
 <h1>I'm Jeremy Duncan,</h1>
-<p align="center">
+<!-- <p align="center">
 <img width="300px" src="https://jeremyduncan.github.io/images/me_ny.webp"/>
-</p>
+</p> -->
 
  ### <p>Software Engineer and 13-year United States Navy Veteran with Professional experience in software development, electronics, and information systems. Experienced in full-stack development with a strong background in Ruby on Rails, JavaScript, and cloud technologies.</p> 
  ### <p>Holder of a B.S. in Computer Information Systems and Software Programming (Summa Cum Laude), an A.S. in Information Technology and Networking, and an undergraduate certificate in Programming Essentials.</p>
